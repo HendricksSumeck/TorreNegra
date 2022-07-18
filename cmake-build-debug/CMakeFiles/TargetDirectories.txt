@@ -1,0 +1,3 @@
+C:/Users/hsume/ProjetosPessoais/TorreNegra/cmake-build-debug/CMakeFiles/TorreNegra.dir
+C:/Users/hsume/ProjetosPessoais/TorreNegra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hsume/ProjetosPessoais/TorreNegra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
